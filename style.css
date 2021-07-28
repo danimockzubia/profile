@@ -2,14 +2,20 @@ body {
   background-color: rgb(15, 15, 15);
   color: limegreen;
   font-family: 'Bebas Neue', cursive;
-  letter-spacing: 2px;
+  letter-spacing: 5px;
   font-size: larger;
   /* text-align: center; */
 }
+
+hr{
+  border: dotted limegreen;
+}
+
 .banner {
   box-shadow: 0 10px 30px rgba(255, 255, 255, 0.2);
   margin: 20px;
   padding: 40px;
+  letter-spacing: 3px;
   text-align: center;
 }
 
@@ -22,7 +28,7 @@ body {
 }
 a {
   font-family: 'Archivo Narrow', sans-serif;
-  font-size: larger;
+  font-size: x-large;
   color: limegreen;
   text-shadow: 2px 2px #080808;
   text-decoration: none;
